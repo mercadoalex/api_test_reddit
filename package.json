@@ -1,3 +1,5 @@
 {
-  "dependencies": {}
+  "dependencies": {
+    "@datafire/reddit_rss": "4.0.0"
+  }
 }

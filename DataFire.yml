@@ -1,2 +1,8 @@
 options:
   cors: true
+actions:
+  action: ./actions/action.js
+paths:
+  /reddit/link:
+    get:
+      action: reddit_rss/subreddit
